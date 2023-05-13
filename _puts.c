@@ -1,4 +1,4 @@
-#include "others.h"
+#include "headers.h"
 /**
  * _puts - prints string to standard output
  * @str: input
